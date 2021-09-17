@@ -15,9 +15,10 @@ wget -L https://raw.githubusercontent.com/iwanmartinsetiawan/skynode-tg/main/sky
 ```
 nano sky_monitoring.sh
 ```
-  - TOKEN_BOT replace with your own token bot telegram.  
+  - key_1 - key_8 = replace with your pub_key.
+  - TOKEN_BOT = replace with your own token bot telegram.  
     Ex : 123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11
-  - ID_TELEGRAM replace with your id telegram.
+  - ID_TELEGRAM = replace with your id telegram.
     Ex : -123456
     
 3. Save and Quit
