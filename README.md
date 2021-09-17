@@ -27,7 +27,7 @@ bash sky_monitoring.sh
 ```
 
 # Reference
-Source data : [Data Uptime](http://ut.skywire.skycoin.com/uptimes){:target="_blank"}
+Source data : [Data Uptime](http://ut.skywire.skycoin.com/uptimes)
 
 # Support 
 Doge : D9BxqsuKtibuzC3fE229h7UfCYQRgABsj5  
